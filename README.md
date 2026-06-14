@@ -1,5 +1,5 @@
 # Kron4n-CoH-Mod-Downloads
-Download assets for **Kron4n CoH All-In-One Launcher** local/unofficial mod installer.
+Download assets for **Kron4n CoH All-In-One Launcher** local/unofficial mod installer. https://steamcommunity.com/app/228200/discussions/0/805723742332378810/
 
 This repository contains ZIP assets used by the launcher to download and install supported local **Company of Heroes Relaunch** mods.
 
