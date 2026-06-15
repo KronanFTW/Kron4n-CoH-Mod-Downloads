@@ -1,11 +1,7 @@
 # Kron4n CoH All-In-One Launcher Patch Notes
 
 Patch notes for the Windows **Kron4n CoH All-In-One Launcher** from **v1.2** up to **v1.4.6**.
-
-> Note: The older v1.2-v1.4.2 notes are written with history based on the known launcher feature path. The verified patch reports currently available cover v1.4.4, v1.4.5, v1.4.6, and the v1.4.6 hotfix.
-
 ---
-
 ## v1.2 - Core All-In-One Launcher Foundation
 
 v1.2 focused on making the launcher usable as a proper all-in-one launcher for Company of Heroes Relaunch.
