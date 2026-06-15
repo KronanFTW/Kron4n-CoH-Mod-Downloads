@@ -2,7 +2,7 @@
 
 Patch notes for the Windows **Kron4n CoH All-In-One Launcher** from **v1.2** up to **v1.4.6**.
 
-> Note: The older v1.2-v1.4.2 notes are written as a clean human-readable history based on the known launcher feature path. The verified patch reports currently available cover v1.4.4, v1.4.5, v1.4.6, and the v1.4.6 hotfix.
+> Note: The older v1.2-v1.4.2 notes are written with history based on the known launcher feature path. The verified patch reports currently available cover v1.4.4, v1.4.5, v1.4.6, and the v1.4.6 hotfix.
 
 ---
 
@@ -211,6 +211,12 @@ Z. Detect unofficial / local mods
 - Ritterkreuz
 - Westfront
 
+### Community help
+
+Special thanks to **Kaien Cross / Nils** on Steam/Discord for helping collect and share several of the local/unofficial mod links used while building the Z-menu support.
+
+Kaien also helped confirm practical details around these mods, including launch arguments and that several of them need `-dev` enabled to work correctly.
+
 ### Important
 
 These local/unofficial mods need:
@@ -293,6 +299,10 @@ The GitHub assets are packed as normal ZIP files so Windows/PowerShell can extra
 
 If a ZIP file is corrupted, incomplete, changed, or does not match the expected SHA256 hash, the launcher stops the installation before copying files into the CoH folder.
 
+### Community credit
+
+The downloadable local mod support was built around the Z-menu mod list, with help from **Kaien Cross / Nils**, who shared collected mod sources and information during testing/planning.
+
 ---
 
 ## v1.4.6 Hotfix - Z-menu Empty Entry Fix
@@ -338,6 +348,24 @@ The launcher version stays:
 ```text
 v1.4.6
 ```
+
+---
+
+## Acknowledgements
+
+Special thanks to **Kaien Cross / Nils** on Steam/Discord for helping collect, share, and explain several local/unofficial Company of Heroes mods used for the Z-menu support.
+
+He provided useful mod references, download sources, and practical launch information while the local mod detection and GitHub download/install support was being built.
+
+---
+
+## Disclaimer
+
+All mods belong to their original creators.
+
+Kron4n CoH All-In-One Launcher is a community launcher project and is not affiliated with Relic Entertainment, SEGA, or the original mod creators.
+
+The local mod download assets are provided only for launcher installation support.
 
 ---
 
